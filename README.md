@@ -89,4 +89,4 @@ void loop() {
   }
 }
 ```
-**you can tinker this project from [here](https://www.tinkercad.com/things/da8GeKwzczh-latching-power-switch-arduino-circuit)**
+**You can tinker this project from [here](https://www.tinkercad.com/things/da8GeKwzczh-latching-power-switch-arduino-circuit)**
